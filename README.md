@@ -1,2 +1,2 @@
 # API_Chemistry
-We will build an api in js using express whilel visualizing it in postman
+We will build an api in js using express while visualizing it in postman
