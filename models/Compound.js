@@ -1,8 +1,9 @@
 class Compound {
-    constructor(name, formula, molarMass, state) {
-      this.name = name;
+    constructor(namee, formula, molarMass, stateOfMatter) {
+      this.namee = namee;
       this.formula = formula;
       this.molarMass = molarMass;
-      this.state = state;
+      this.stateOfMatter = stateOfMatter;
     }
   }
+  module.exports = Compound;
